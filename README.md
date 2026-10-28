@@ -64,7 +64,7 @@ El dashboard presenta los siguientes indicadores:
 
 ## Dashboard
 
-![Dashboard de Sales Performance Analysis](screenshots/dashboard.png)
+![Dashboard de Sales Performance Analysis](dashboard.jpg)
 
 \## Principales hallazgos
 
