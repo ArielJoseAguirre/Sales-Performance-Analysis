@@ -63,7 +63,7 @@ El dashboard presenta los siguientes indicadores:
 \- Porcentaje de margen bruto.
 ## Dashboard
 
-![Dashboard de Sales Performance Analysis](screenshots/dashboard.jpg)
+![Dashboard de Sales Performance Analysis](Screenshots/Dashboard.jpg)
 
 \## Principales hallazgos
 
